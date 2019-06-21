@@ -39,3 +39,5 @@ do {
 while (15 - n > i);
 return loveArray;
 }
+
+console.log(loveArray)
