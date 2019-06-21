@@ -33,7 +33,7 @@ function iLoveTheBeatles(n){
   var loveArray = [];
   var i = 0;
 do {
-  loveArray = "The ;
+  loveArray = "I love the Beatles!";
   i++;
 }
 while (i < 5);
