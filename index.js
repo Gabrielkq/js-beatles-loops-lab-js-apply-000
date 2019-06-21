@@ -37,7 +37,8 @@ do {
   i++;
 }
 while (15 - n > i);
-return loveArray;
+console.log(loveArray)
+
 }
 
 console.log(loveArray)
