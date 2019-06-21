@@ -17,11 +17,13 @@ var string = musicians[i] + " plays " + instruments[i] ;
 theBeatlesPlay();
 
 
-function johnLennonFact(facts){
+function johnLennonFacts(facts){
   var i = 0;
+  var lennonArray = [];
   while (i < facts.length) {
-  text += "The number is " + i;
+  lennonArray[i] = facts[i] +"!!!";
   i++;
 }
   
 }
+johnLennonFacts();
