@@ -29,7 +29,7 @@ function johnLennonFacts(facts){
 }
 johnLennonFacts();
 
-/*function iLoveTheBeatles(n){
+function iLoveTheBeatles(n){
   var loveArray = [];
   var i = 0;
 do {
@@ -40,7 +40,7 @@ while (15 - n >= i + 1);
 return(loveArray);
 
 }
-*/
+/*
 
 function iLoveTheBeatles(n){
   var loveArray = [];
@@ -53,3 +53,4 @@ while (15 - n >= i + 1);
 return(loveArray);
 
 }
+*/
