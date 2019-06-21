@@ -36,6 +36,6 @@ do {
   loveArray = "I love the Beatles!";
   i++;
 }
-while (n + i < 16);
+while (15 - n >= i);
 return loveArray;
 }
