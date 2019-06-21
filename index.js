@@ -29,4 +29,7 @@ function johnLennonFacts(facts){
 }
 johnLennonFacts();
 
-
+function iLoveTheBeatles(n){
+  var loveArray = [];
+  
+}
