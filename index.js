@@ -36,9 +36,8 @@ do {
   loveArray = "I love the Beatles!";
   i++;
 }
-while (15 - n > i);
-console.log(loveArray)
+while (15 - n >= i);
+return(loveArray);
 
 }
 
-console.log(loveArray)
