@@ -7,7 +7,8 @@
 var emptyArray = [];
 function theBeatlesPlay(muscians,intruments){
 var mLen = musicians.length;  
-for (i = 0; i < mLen; i++)  {
+
+for (var i = 0; i < mLen; i++)  {
 var string = musicians[i] + " plays " + instruments[i] ;
  emptyArray[i] = string;}
  return emptyArray
