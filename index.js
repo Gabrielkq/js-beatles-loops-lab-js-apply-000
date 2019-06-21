@@ -15,3 +15,6 @@ var string = musicians[i] + " plays " + instruments[i] ;
  
 }
 theBeatlesPlay();
+
+
+function johnLennonFact(facts)
