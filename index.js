@@ -41,3 +41,15 @@ return(loveArray);
 
 }
 */
+
+function iLoveTheBeatles(n){
+  var loveArray = [];
+  var i = 0;
+do {
+  loveArray <<  "I love the Beatles!"
+  i++;
+}
+while (15 - n >= i + 1);
+return(loveArray);
+
+}
